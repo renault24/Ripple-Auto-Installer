@@ -1,2 +1,2 @@
 # note
-this is fork of original for experimental
+this is fork of original for experiment
